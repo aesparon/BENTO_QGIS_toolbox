@@ -1,7 +1,8 @@
-# 🥡 BENTO Toolbox for QGIS  
-### End-to-End Deep Learning Workflow for Ecological and Geospatial Image Analysis
+# 🥡 BENTO Toolbox for QGIS
 
-![BENTO Banner](assets/banner_bento_qgis.png)
+<p align="center">
+  <img src="assets/banner_bento_qgis.png" alt="BENTO Toolbox for QGIS banner" style="max-width: 900px; width: 100%; border-radius: 6px;">
+</p>
 
 [![QGIS Plugin](https://img.shields.io/badge/QGIS-Plugin-green.svg)](https://qgis.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
@@ -10,10 +11,9 @@
 [![YOLO Models](https://img.shields.io/badge/Models-YOLOv8/v11/v12-red.svg)](https://github.com/ultralytics/ultralytics)
 [![Detectron2](https://img.shields.io/badge/Model-Detectron2-purple.svg)](https://github.com/facebookresearch/detectron2)
 [![GitHub Pages](https://img.shields.io/badge/Docs-GitHub%20Pages-blue)](https://aesparon.github.io/BENTO_QGIS_toolbox/)
-[![DOI](https://zenodo.org/badge/DOI/10.xxxxx/zenodo.xxxxx.svg)](https://zenodo.org/)  <!-- update once you mint DOI -->
+[![DOI](https://zenodo.org/badge/DOI/10.xxxxx/zenodo.xxxxx.svg)](https://zenodo.org/)  <!-- update once DOI minted -->
 
 ---
-
 ## 🌏 Overview
 
 **BENTO** (*Bentō toolbox*, inspired by the Japanese lunch box) is an **open-source, modular, and fully integrated geospatial deep learning workflow** built as a **QGIS plugin**.  
