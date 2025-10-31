@@ -1,25 +1,16 @@
----
-title: BENTO Toolbox for QGIS
-layout: default
-description: End-to-end deep learning workflow for ecological and geospatial image analysis, integrating SAM, YOLO, and Detectron2 directly in QGIS.
-author: Andrew Esparon
-keywords: [QGIS plugin, deep learning, object detection, segmentation, SAM, YOLO, Detectron2, remote sensing, ecology, GIS, multispectral]
-image: assets/banner_bento_qgis.png
----
-
-# 🥡 BENTO Toolbox for QGIS
+# 🥡 BENTO Toolbox for QGIS  
 ### End-to-End Deep Learning Workflow for Ecological and Geospatial Image Analysis
 
-![BENTO Banner](assets/banner_bento_qgis2.png)
+![BENTO Banner](assets/banner_bento_qgis.png)
 
 [![QGIS Plugin](https://img.shields.io/badge/QGIS-Plugin-green.svg)](https://qgis.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Python](https://img.shields.io/badge/Python-3.10+-yellow.svg)](https://www.python.org/)
 [![PyTorch](https://img.shields.io/badge/Framework-PyTorch-orange.svg)](https://pytorch.org/)
-[![YOLO-MultiSpectral](https://img.shields.io/badge/Model-YOLO--v8/v11/v12-red.svg)](https://github.com/ultralytics/ultralytics)
+[![YOLO Models](https://img.shields.io/badge/Models-YOLOv8/v11/v12-red.svg)](https://github.com/ultralytics/ultralytics)
 [![Detectron2](https://img.shields.io/badge/Model-Detectron2-purple.svg)](https://github.com/facebookresearch/detectron2)
-[![GitHub Pages](https://img.shields.io/badge/Docs-GitHub%20Pages-blue)](https://<your-username>.github.io/BENTO-QGIS-Toolbox/)
-[![DOI](https://zenodo.org/badge/DOI/10.xxxxx/zenodo.xxxxx.svg)](https://zenodo.org/)
+[![GitHub Pages](https://img.shields.io/badge/Docs-GitHub%20Pages-blue)](https://aesparon.github.io/BENTO_QGIS_toolbox/)
+[![DOI](https://zenodo.org/badge/DOI/10.xxxxx/zenodo.xxxxx.svg)](https://zenodo.org/)  <!-- update once you mint DOI -->
 
 ---
 
