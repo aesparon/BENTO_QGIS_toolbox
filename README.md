@@ -10,7 +10,7 @@ image: assets/banner_bento_qgis.png
 # 🥡 BENTO Toolbox for QGIS
 ### End-to-End Deep Learning Workflow for Ecological and Geospatial Image Analysis
 
-![BENTO Banner](assets/banner_bento_qgis.png)
+![BENTO Banner](assets/banner_bento_qgis2.png)
 
 [![QGIS Plugin](https://img.shields.io/badge/QGIS-Plugin-green.svg)](https://qgis.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
