@@ -1,0 +1,14 @@
+title: BENTO Toolbox for QGIS
+description: End-to-end deep learning workflow for ecological and geospatial image analysis, integrating SAM, YOLO, and Detectron2 directly in QGIS.
+theme: minima
+logo: /assets/banner_bento_qgis.png
+show_downloads: true
+google_analytics:
+author: Andrew Esparon
+twitter_username:
+github_username: <your-username>
+markdown: kramdown
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-feed
