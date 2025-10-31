@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use BENTO in your research, please cite it as follows:"
+title: "BENTO: An open-source modular toolbox for geospatial deep learning in QGIS"
+authors:
+  - family-names: Esparon
+    given-names: Andrew
+  - name: "et al."
+year: 2025
+version: "1.0.0"
+repository-code: "https://github.com/aesparon/BENTO_QGIS_toolbox"
+url: "https://aesparon.github.io/BENTO_QGIS_toolbox/"
+license: MIT
+type: software
+abstract: >
+  BENTO is an open-source modular QGIS toolbox integrating deep learning workflows
+  for ecological and geospatial imagery, including SAM-based mask generation,
+  YOLO and Detectron2 model training, evaluation with FiftyOne, and deployment
+  as GIS-ready layers—all within QGIS.
+status: in-preparation

@@ -161,8 +161,10 @@ BENTO/
 
 If you use **BENTO** in your research, please cite:
 
-> Esparon, A. et al. (2025). *BENTO: An open-source modular toolbox for geospatial deep learning in QGIS.*  
-> GitHub repository: https://github.com/<your-username>/BENTO-QGIS-Toolbox
+> Esparon, A. et al. (2025).  
+> *BENTO: An open-source modular toolbox for geospatial deep learning in QGIS.*  
+> *In preparation.*  
+> GitHub repository: [https://github.com/aesparon/BENTO_QGIS_toolbox](https://github.com/aesparon/BENTO_QGIS_toolbox)
 
 ---
 
