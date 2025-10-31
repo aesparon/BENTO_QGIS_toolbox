@@ -1,7 +1,7 @@
 # 🥡 BENTO Toolbox for QGIS
 
 <p align="center">
-  <img src="assets/banner_bento_qgis.png" alt="BENTO Toolbox for QGIS banner" style="max-width: 900px; width: 100%; border-radius: 6px;">
+  <img src="assets/banner_bento_qgis2.png" alt="BENTO Toolbox for QGIS banner" style="max-width: 900px; width: 100%; border-radius: 6px;">
 </p>
 
 [![QGIS Plugin](https://img.shields.io/badge/QGIS-Plugin-green.svg)](https://qgis.org/)
